@@ -4,7 +4,7 @@ Strapi, an open-source headless content management system (CMS) that allows for 
 
 The project also utilizes Cloudinary, a cloud-based media management solution, to store and manage images and other media assets. This ensures that the application can handle large amounts of data efficiently and with minimal downtime.
 
-## Some screen shots of this projects's content mananger and media 
+## Some screen shots of this projects's content manager and media 
 
 ### Content-manager
 ![Screenshot 1](https://github.com/r9hit/POSTERZ-back-end-strapi/blob/main/screenshots/Screenshot%20(38).png)
