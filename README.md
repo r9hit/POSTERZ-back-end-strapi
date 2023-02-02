@@ -1,4 +1,5 @@
-This is back-end code of POSTERZ e-commerce website made using ReactJS and Strapi. Front code 'https://github.com/r9hit/POSTERZ-front-end'
+This is back-end code of POSTERZ e-commerce website made using ReactJS and Strapi. 
+Front-end code 'https://github.com/r9hit/POSTERZ-front-end'
 
 Strapi, an open-source headless content management system (CMS) that allows for easy management of the application's data.
 
